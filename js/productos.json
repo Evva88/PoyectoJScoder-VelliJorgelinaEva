@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Rascador modelo 1",
+    "precio": 25000,
+    "id": 1,
+    "img": "../assets/rascadorgato1.webp"
+  },
+  {
+    "nombre": "rascador modelo 2",
+    "precio": 23000,
+    "id": 2,
+    "img": "../assets/rascadorgatos2.jpg"
+  },
+  {
+    "nombre": "cama Gatos",
+    "precio": 4000,
+    "id": 3,
+    "img": "../assets/camagato.webp"
+  },
+  {
+    "nombre": "cama para perro",
+    "precio": 23000,
+    "id": 4,
+    "img": "../assets/camaperro.webp"
+  },
+  {
+    "nombre": "Corral mascotas",
+    "precio": 14200,
+    "id": 5,
+    "img": "../assets/corral.webp"
+  }
+]

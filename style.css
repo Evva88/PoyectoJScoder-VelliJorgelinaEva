@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+  }
+
+  body{
+    background-color: #F4ECF7;
+  }
+
+    h1, h2{
+        margin: 100px;
+        text-align: center;
+        font-size: xx-large; 
+        color: palevioletred;
+    }  
+    
+  
+    .btn{
+        background-color: palevioletred;
+    }
+    
+   .col-md-6{
+    -ms-flex-align: baseline;
+   }
+
+   img{
+    height: 300px;
+    width: 200px;
+   }
+
+   #carrito-container{
+    width: 50px;
+    height: 50px;
+   }
+
+   #carrito-container2{
+    width: 25px;
+    height: 25px;
+   }
+
+   #cont.cruz{
+    width: 70px;
+    height: 70px;
+   }
+   #cruz{
+    width: 50px;
+    height: 50px;
+   }
+  
